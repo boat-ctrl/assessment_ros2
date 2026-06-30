@@ -288,5 +288,5 @@ source install/setup.bash
 
 ## Author
 
-Assessment Engineer
-ROS2 Jazzy — Ubuntu 24.04
+Boat
+
